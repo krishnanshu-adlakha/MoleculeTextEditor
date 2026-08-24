@@ -1,3 +1,2 @@
 # MoleculeTextEditor
-A simple text editor like Notepad. You can change the text colour, size and font. You can also save, open and create new files.
-Made with Python, guizero and Tkinter.
+A text editor based on Windows 10 Notepad, designed to be simplified compared to Windows 11 which is becoming increasingly bloated. Built with a minimalistic architecture, featuring Python 3 and Tkinter.
